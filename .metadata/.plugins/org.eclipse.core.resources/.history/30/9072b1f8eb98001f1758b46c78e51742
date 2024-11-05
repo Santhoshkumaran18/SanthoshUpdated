@@ -1,0 +1,18 @@
+package javaProject;
+
+import java.util.Scanner;
+
+public class NameInputs {
+
+	public static void main(String[] args) {
+		Scanner a=new Scanner(System.in);
+		System.out.println("Please Enter you Name in capital letters :");
+		String b=a.nextLine();
+		if(b==b.startsWith(b)r) {
+			System.out.println("Entered Name is:" +b);
+		}
+		
+
+	}
+
+}

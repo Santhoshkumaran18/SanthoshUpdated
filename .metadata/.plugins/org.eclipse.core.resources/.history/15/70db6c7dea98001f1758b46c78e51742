@@ -1,0 +1,10 @@
+package javaProject;
+
+public class OperatorsCoding {
+
+	public static void main(String[] args) {
+		Scanner a=new Scanner(System.in);
+
+	}
+
+}

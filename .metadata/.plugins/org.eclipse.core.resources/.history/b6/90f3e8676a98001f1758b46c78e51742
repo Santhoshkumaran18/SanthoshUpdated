@@ -1,0 +1,10 @@
+package javaProject;
+
+public class HelloWorldProgram {
+
+	public static void main(String[] args) {
+		System.out.println("This is Santhosh Kumaran S");
+
+	}
+
+}

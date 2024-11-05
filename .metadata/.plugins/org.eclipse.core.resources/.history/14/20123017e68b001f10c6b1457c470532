@@ -1,0 +1,20 @@
+package introduction;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class EndtoEndexercises {
+
+	public static void main(String[] args) {
+		System.setProperty("webdriver.chrome.driver", "C:/Users/S Santhosh Kumaran/Documents/chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		driver.get("https://rahulshettyacademy.com/angularpractice/");
+		String Name="//input[@class='form-control ng-pristine ng-invalid ng-touched']";
+		String email="email";
+		String password="//input[@type='password']";
+		String checkbox="//input[@type='checkbox']";
+		String radiobutton="//input[@id='inlineRadio1']";
+
+	}
+
+}

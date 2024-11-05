@@ -1,0 +1,21 @@
+package javaProject;
+
+import java.util.ArrayList;
+
+public class Sanjay {
+
+	public static void main(String[] args) {
+		ArrayList<String> arr=new ArrayList<String>();
+		arr.add("Sanjay Loosu");
+		arr.add("Azhagu");
+		Collections.
+		for(String order:arr) {
+			System.out.println(order);
+			
+		}
+		System.out.println(arr.size());
+		
+
+	}
+
+}

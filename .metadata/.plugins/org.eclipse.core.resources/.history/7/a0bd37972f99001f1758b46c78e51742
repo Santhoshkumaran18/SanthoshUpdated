@@ -1,0 +1,17 @@
+package javaProject;
+
+import java.util.Scanner;
+
+public class FaherenheitToCelsius {
+
+	public static void main(String[] args) {
+		Scanner a=new Scanner(System.in);
+		int celsiusStart,celsiusEnd;
+		System.out.println("Please enter the Starting value of celsius: ");
+		celsiusStart=a.nextInt();
+		System.out.println("Please enter the celsius End value: ");
+		celsiusEnd=a.nextInt();
+		for(i=celsiusStart;i<=celsiusEnd;)
+	}
+
+}

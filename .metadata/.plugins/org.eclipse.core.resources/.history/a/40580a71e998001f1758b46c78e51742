@@ -1,0 +1,21 @@
+package javaProject;
+
+import java.util.Scanner;
+
+public class OperatorsExercises {
+
+	public static void main(String[] args) {
+		Scanner a=new Scanner(System.in);
+		int number1=10;
+		int number2=20;
+		int sum=number1+number2;
+		int difference=number1-number2;
+		int multiply= number2*number1;
+		System.out.println("Please Enter two Numbers :");
+		sum=a.nextInt();
+		System.out.println(sum);
+		
+
+	}
+
+}

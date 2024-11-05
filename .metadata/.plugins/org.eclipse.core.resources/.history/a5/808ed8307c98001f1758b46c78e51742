@@ -1,0 +1,15 @@
+package javaProject;
+
+import java.util.Scanner;
+
+public class BMIcalculator {
+	public static void main(String[] args) {
+		Scanner a =new Scanner(System.in);
+		float Weight,height;
+		System.out.println("Please Enter your Weight: ");
+		Weight=a.nextFloat();
+		System.out.println("Please Enter your height: ");
+		height=a.nextFloat();
+		
+	}
+}

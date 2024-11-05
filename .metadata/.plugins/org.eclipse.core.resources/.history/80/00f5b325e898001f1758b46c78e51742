@@ -1,0 +1,15 @@
+package javaProject;
+
+import java.util.Scanner;
+
+public class OperatorsExercises {
+
+	public static void main(String[] args) {
+		Scanner a=new Scanner(System.in);
+		int b,c,d;
+		int Sum=b+c;
+		System.out.println("Please Enter two Numbers :");
+
+	}
+
+}

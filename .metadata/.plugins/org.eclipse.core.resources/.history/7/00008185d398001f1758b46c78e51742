@@ -1,0 +1,22 @@
+package javaProject;
+
+public class Operators {
+
+	public static void main(String[] args) {
+		int a=10;
+		int b=20;
+		int sum;
+		sum=a+b;
+		int Diff=a-b;
+		int Multiply=a*b;
+		int Divide=a/b;
+		int rem=a%b;
+		int[] Total= {sum,Diff,Multiply,Divide,rem};
+		for(int tot:Total) {
+			System.out.println(tot);
+		}
+	  String Santhosh=System.out.println(a<b); //Relational operators always returns boolean value
+		
+	}
+
+}

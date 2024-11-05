@@ -1,0 +1,22 @@
+package javaProject;
+
+import java.util.Scanner;
+
+public class HundredYearAgeProgram {
+
+	public static void main(String[] args) {
+		int Age;
+		Scanner a=new Scanner(System.in);
+		
+		int birthYear=a.nextInt();
+		System.out.println("Please Enter your Age: ");
+		Age=a.nextInt();
+		System.out.println("Please Enter your BirthYear: ");
+		int hundredYears=birthYear+100;
+		System.out.println("You will be 100 years old in:"+hundredYears);
+		
+		
+
+	}
+
+}

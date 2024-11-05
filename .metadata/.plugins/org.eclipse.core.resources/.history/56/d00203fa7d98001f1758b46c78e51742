@@ -1,0 +1,13 @@
+package javaProject;
+
+import java.util.Scanner;
+
+public class BirthYear {
+
+	public static void main(String[] args) {
+		int Age;
+		Scanner a=new Scanner(System.in);
+
+	}
+
+}

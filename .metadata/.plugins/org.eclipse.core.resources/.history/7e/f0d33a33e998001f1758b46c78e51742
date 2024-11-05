@@ -1,0 +1,18 @@
+package javaProject;
+
+import java.util.Scanner;
+
+public class OperatorsExercises {
+
+	public static void main(String[] args) {
+		Scanner a=new Scanner(System.in);
+		int b=a.nextInt();;
+		int c=a.nextInt();;
+		int sum=b+c;
+		System.out.println("Please Enter two Numbers :");
+		System.out.println(sum);
+		
+
+	}
+
+}

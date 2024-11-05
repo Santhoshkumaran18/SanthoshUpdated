@@ -1,0 +1,17 @@
+package javaProject;
+
+import java.util.Scanner;
+
+public class BirthYear {
+
+	public static void main(String[] args) {
+		int Age;
+		int currentYear=2024;
+		Scanner a=new Scanner(System.in);
+		System.out.println("Enter your birth year: ");
+		Age=a.nextInt();
+		
+
+	}
+
+}

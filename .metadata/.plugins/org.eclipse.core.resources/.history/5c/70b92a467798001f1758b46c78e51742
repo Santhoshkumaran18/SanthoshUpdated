@@ -1,0 +1,13 @@
+package javaProject;
+
+public class ScannerProjects {
+
+	public static void main(String[] args) {
+		String name="Santhosh Kumaran";
+		char initial='S';
+		int Age=25;
+		float Salary=100000F;
+
+	}
+
+}

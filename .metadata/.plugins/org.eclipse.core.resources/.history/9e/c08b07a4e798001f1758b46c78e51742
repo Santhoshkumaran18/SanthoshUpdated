@@ -1,0 +1,10 @@
+package javaProject;
+
+public class OperatorsExercises {
+
+	public static void main(String[] args) {
+		Scanner a=new Scanner(Sytem.in)
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package javaProject;
+
+import java.util.Scanner;
+
+public class FaherenheitToCelsius {
+
+	public static void main(String[] args) {
+		Scanner a=new Scanner(System.in);
+		int celsius,fahernheot;
+		System.out.println("Please enter the Starting value of celsius: ");
+		
+	}
+
+}

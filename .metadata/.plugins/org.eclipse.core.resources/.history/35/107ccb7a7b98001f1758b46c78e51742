@@ -1,0 +1,9 @@
+package javaProject;
+
+import java.util.Scanner;
+
+public class BMIcalculator {
+	public static void main(String[] args) {
+		Scanner a =new Scanner(Sytem.in);
+	}
+}

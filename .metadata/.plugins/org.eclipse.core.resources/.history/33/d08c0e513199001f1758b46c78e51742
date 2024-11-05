@@ -1,0 +1,17 @@
+package javaProject;
+
+import java.util.Scanner;
+
+public class ForLoopsAdvancedExercises {
+
+	public static void main(String[] args) {
+		Scanner a=new Scanner(System.in);
+		System.out.println("Enter the numbers you want between");
+		numberStart=a.nextInt();
+		for (int i=numberStart;i<=numberEnd;i++) {
+			System.out.println(i);
+		}
+
+	}
+
+}

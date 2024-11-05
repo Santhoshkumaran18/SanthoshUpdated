@@ -1,0 +1,9 @@
+package javaProject;
+
+public class SwitchStatement {
+
+	public static void main(String[] args) {
+		Scanner a=new Scanner(System.in);
+	}
+
+}

@@ -1,0 +1,23 @@
+package javaProject;
+
+import java.util.Scanner;
+
+public class ScannerProjects {
+
+	public static void main(String[] args) {
+		String name="Santhosh Kumaran";
+		char initial='S';
+		int Age=25;
+		float Salary=100000F;
+		double distance=2.55;
+		Scanner a=new Scanner(System.in);
+		int IndianRupee;
+		double pounds;
+		pounds= IndianRupee *0.0092;
+		System.out.println("Please enter you INR to convert: ");
+		double PoundtoInrConversion=a.nextDouble();
+		System.out.println("Conversion of INR to pounds is "+poundConversion);
+
+	}
+
+}
